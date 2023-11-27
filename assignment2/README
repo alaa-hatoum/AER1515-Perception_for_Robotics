@@ -1,0 +1,30 @@
+# Assignment 2
+
+## OpenCV Version
+OpenCV version used in this project: 4.6
+
+## Dependencies
+- Python 3.10.12
+- OpenCV 4.6
+
+## Getting Started
+
+### Running the Code
+1. **Registration Script**
+    - To run the registration script (`starter_code_registration.py`) using Python 3, open the terminal and navigate to the directory where the file is located.
+    - Use the following command:
+        ```
+        python3 starter_code_registration.py
+        ```
+
+2. **Feature Script**
+    - To run the feature script (`starter_code_feature.py`) using Python 3, similarly, navigate to the directory in the terminal.
+    - Execute the script by typing:
+        ```
+        python3 starter_code_feature.py
+        ```
+
+## Additional Notes
+- Make sure you have the necessary dependencies installed.
+- Adjust file paths or configurations as needed within the scripts.
+

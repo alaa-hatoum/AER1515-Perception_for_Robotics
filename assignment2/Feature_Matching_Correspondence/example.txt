@@ -1,0 +1,5 @@
+# image_id pixel_u pixel_v disparity depth
+000011 1 1 20 30.5
+000011 2 5 15 15.2
+000011 35 50 2 60.2
+
